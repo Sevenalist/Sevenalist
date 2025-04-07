@@ -2,7 +2,7 @@
 
 - 🏫 I’m currently a student studying in CQU.
 - 🌱 I’m currently learning LLM.
-- ✨ More visit (my website)[https://dczcq.cn]
+- ✨ More visit [my website](https://dczcq.cn)
 
 <!--
 **Sevenalist/Sevenalist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
