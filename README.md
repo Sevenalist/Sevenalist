@@ -1,6 +1,6 @@
 ## Hi! I'm Chaozhong Deng 👋
 
-- 🏫 I’m currently a student studying in CQU.
+- 🏫 I’m a bachelor of [CQUT](https://www.cqut.edu.cn/).
 - 🌱 I’m currently learning LLM.
 - ✨ More visit [my website](https://dczcq.cn)
 
